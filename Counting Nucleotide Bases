@@ -1,0 +1,7 @@
+def basecounter(string):
+  string=list(string)
+  A=[base for base in string if base=='A']
+  C=[base for base in string if base=='C']
+  T=[base for base in string if base=='T']
+  G=[base for base in string if base=='G']
+  print(len(A),len(C),len(T),len(G))
