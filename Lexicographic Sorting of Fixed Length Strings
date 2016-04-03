@@ -1,0 +1,17 @@
+list1=['T','A','G','C']
+newlist=[]
+
+#list1 contains the letters in their specific lexicographic order
+#newlist will contain the ordered set of letter strings
+
+for letter in list1:
+  y=[[letter,letter2] for letter 2 in list1]
+  newlist.append(y)
+
+#for loop creates ordered pairs of letters
+#since these are fixed length strings, adding more for loops and compensating in y will generate longer strings
+
+for list in newlist:
+  for letters in list:
+    print(''.join(letters))
+    
