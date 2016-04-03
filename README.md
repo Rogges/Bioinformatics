@@ -1,5 +1,5 @@
 # Bioinformatics
 
-# Solutions to problems with biological significance
+Solutions to problems with biological significance
 
-# Problems are sourced from Rosalind 
+Problems are sourced from Rosalind 
